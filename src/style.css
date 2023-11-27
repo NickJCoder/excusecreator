@@ -1,1 +1,12 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.container {
+    width: 300px;
+  }
+  
+  h1 {
+    font-family: sans-serif;
+    text-decoration-line: underline;
+  }
+  
+  
+  
+  
